@@ -5,7 +5,7 @@
   "main": "dist/chartjs-plugin-autocolors.js",
   "module": "dist/chartjs-plugin-autocolors.ems.js",
   "scripts": {    
-    "prepare": "rollup -c"
+    "prepare": "rollup -c",
     "build": "rollup -c",
     "lint": "eslint samples/**/*.html samples/**/*.js src/**/*.js **/*.md"
   },
